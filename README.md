@@ -1,4 +1,4 @@
-# Hi, I'm Ishkhan 👾:
+# bu👾:
 🚀 Backend developer<br>💻 Passionate about clean code, automation, and scalable systems<br>🌱 Exploring cloud technologies, databases, and system security<br>📫 Reach me at: t.me/@GoBackendius
 
 
